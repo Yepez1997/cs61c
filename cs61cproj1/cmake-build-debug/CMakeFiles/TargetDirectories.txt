@@ -1,0 +1,3 @@
+/Users/familyyepez/Desktop/cs61cproj1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/familyyepez/Desktop/cs61cproj1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/familyyepez/Desktop/cs61cproj1/cmake-build-debug/CMakeFiles/proj1.dir
